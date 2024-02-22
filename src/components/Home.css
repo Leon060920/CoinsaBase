@@ -6,6 +6,8 @@
 
 .cards h3{
   font-size: 18px;
+  width: 320px;
+  margin-top: 10px;
 }
 
 .cardcontainer img{

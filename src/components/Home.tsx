@@ -25,7 +25,7 @@ const Homee = () => {
             <Card
               style={{
                 width: 390.94,
-                height: 125.36,
+                height: 125.36, 
                 marginLeft: 43,
                 marginTop: 34,
               }}
@@ -74,8 +74,8 @@ const Homee = () => {
                 <Col span={3}>
                   <img src={chip} />
                 </Col>
-                <Col span={3} offset={1}>
-                  <h3>Medidores</h3>
+                <Col span={3} offset={1} >
+                  <h3>Equipos de medicion</h3>
                 </Col>
               </Row>
               <p>Visualizador de equipos y la información de sus pozos</p>
@@ -96,7 +96,7 @@ const Homee = () => {
                   <img src={tool} />
                 </Col>
                 <Col span={3} offset={1}>
-                  <h3>Clientes</h3>
+                  <h3>Mantenimiento</h3>
                 </Col>
               </Row>
               <p>Lista de reportes de incidencias</p>
@@ -115,7 +115,7 @@ const Homee = () => {
                   <img src={bulb} />
                 </Col>
                 <Col span={3} offset={1}>
-                  <h3>Clientes</h3>
+                  <h3>Novedades</h3>
                 </Col>
               </Row>
               <p>Catálogo de nuevos productos y servicios</p>
