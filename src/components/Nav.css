@@ -1,0 +1,84 @@
+.topnav {
+  background-color: #1e1e1e;
+  width: 101%;
+  height: 64.39px;
+  padding: 0px;
+  display: flex;
+  margin-top: 44px;
+
+}
+.topnav .item1 {
+  height: 32px;
+  text-align: end;
+  margin-top: 14px;
+  margin-left: 2049.75px;
+  color: white;
+  display: flex;
+}
+
+.topnav img {
+  width: 191.51px;
+  height: 46.89px;
+  margin: 6.79px;
+  pointer-events: none;
+}
+
+.item1 img {
+  height: 18px;
+  width: 20px;
+  margin-left: 8px;
+  text-align: end;
+}
+
+.item1 h1 {
+  color: white;
+  font-size: 24px;
+  height: 18px;
+  margin-top: 1px;
+  margin-right: 5px;
+  font-family: nunito sans;
+}
+
+.topnav .item2 img {
+  border-radius: 50%;
+}
+
+.drop {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  display: flex;
+  margin-right: 82px;
+
+}
+.user{
+  margin-left: 10px;
+
+}
+.user p {
+  margin-top: 3px;
+  margin-bottom: 3px;
+
+}
+
+.drop p {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 12px;
+}
+
+.pass{
+display: flex;
+outline: solid red;
+
+}
+
+.passbtn{
+  text-align: right;
+  outline: solid green;
+}
+
+.submit-button-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 16px;
+}

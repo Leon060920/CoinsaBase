@@ -1,0 +1,56 @@
+
+
+.cards {
+  display: flex;
+}
+
+.cards h3{
+  font-size: 18px;
+}
+
+.cardcontainer img{
+  width: 44px;
+  height: 44px;
+  display: flex;
+}
+.cardcontainer p{
+  margin-top: 2px;
+}
+
+.item3 {
+  display: flex;
+}
+
+.cardcontainer {
+  justify-content: center;
+  align-items: center;
+  width: 1350px;
+  height: 400px;
+  margin-left: 300px;
+  margin-top: 30px;
+
+}
+
+.hello {
+  justify-content: center;
+  text-align: center;
+  width: 500px;
+  margin-left: 610px;
+  margin-bottom: 3px;
+  margin-top: 20px;
+  margin-top: 163px;
+
+}
+
+.home{
+  margin-top: -44px;
+  height: 100%;
+}
+
+.home .middle{
+  height: auto;
+  width: 1750px;
+  margin-left: 294px;
+  margin-top: 340px
+
+}
