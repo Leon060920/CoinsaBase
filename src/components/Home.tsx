@@ -71,7 +71,8 @@ const Homee = () => {
               hoverable
             >
               <Row>
-                <Col span={3}>
+                <Col span={3}> 
+                
                   <img src={chip} />
                 </Col>
                 <Col span={3} offset={1} >
